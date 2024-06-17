@@ -1,44 +1,28 @@
-## 👋 Hello! I'm [Your Name]
+## 👋 Hello! I'm Justin Mach.
 
 [Your Profile Picture or Logo]
 
 **About Me:**
 
-* 🎓 Graduate Student at [University Name]
-* 🔬 Researching [Your Research Area/Topic]
-* 🌱 Currently focused on learning [Specific Tools, Techniques, or Concepts]
-* 👯 Open to collaborating on [Research Projects, Open Source Contributions]
-* 🤔 Passionate about [Broader Interests Related to Your Field]
-* 💬 Ask me about [Topics You're Happy to Discuss]
-* 📫 How to reach me: [Email Address, Website, Other Relevant Contact]
+* 🎓 Graduate Student at **Hokkaido University's Graduate School of International Media, Communication, and Tourism Studies**
+* 🔬 Researching **The role of _soft power_ in Japanese politics**
+* 🌱 Currently focused on learning github and how to use software for research
+* 👯 Open to collaborating on Research Projects
+* 🤔 Passionate about **DOGS**
+* 💬 Ask me about anything!
+* 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/justin-m-018a6b132/)**
 
 **Research Interests:**
 
-* [List Your Primary Research Interests]
-* [List Your Secondary Research Interests]
+* Main research interests: Japan, Pop culture, soft power, international relations
+* Secondary research interests: Linguistics, linguistic anthropology
 
 **Skills & Expertise:**
 
-[Add badges or icons representing your skills]
-
-* Programming Languages: ...
-* Research Tools & Software: ...
-* Data Analysis & Visualization: ...
-* Other Relevant Skills: ...
+* Languages: English, Japanese
+* Languages being learnt: Mandarin, Cantonese 
+* Other Relevant Skills: Teaching English as a Second Language
 
 **Publications & Presentations:**
 
-* [List Your Publications (if applicable)]
-* [List Your Conference Presentations (if applicable)]
-
-**My GitHub Contributions:**
-
-[Add a recent activity visualization]
-
-**Let's Connect:**
-
-[Add links to your LinkedIn, ResearchGate, Personal Website, etc.]
-
-**My Stats:**
-
-[Add GitHub stats card]
+* Bachelor Thesis: Reimagining Shonen Manga: Tatsuki Fujimoto’s Innovative Use of Narrative and Aesthetics in _Chainsaw Man_

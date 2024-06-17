@@ -1,13 +1,13 @@
 ## 👋 Hello! I'm Justin Mach.
 
-[Your Profile Picture or Logo]
+![image](/S__41164811.jpg)
 
 **About Me:**
 
 * 🎓 Graduate Student at **Hokkaido University's Graduate School of International Media, Communication, and Tourism Studies**
 * 🔬 Researching **The role of _soft power_ in Japanese politics**
 * 🌱 Currently focused on learning github and how to use software for research
-* 👯 Open to collaborating on Research Projects
+* 👯 Open to collaborating on **Research Projects**
 * 🤔 Passionate about **DOGS**
 * 💬 Ask me about anything!
 * 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/justin-m-018a6b132/)**

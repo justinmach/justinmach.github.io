@@ -1,7 +1,7 @@
-## 👋 Hello! I'm Justin Mach.
+## Welcome to the Homepage of Justin Mach.
 
 
-![My CV](/Justin_Mach_English_Teacher_Resume.pdf)
+**![My CV](/Justin_Mach_English_Teacher_Resume.pdf)**
 
 ![image](/S__41164811.jpg)
 

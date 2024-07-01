@@ -2,6 +2,7 @@
 
 
 ![My CV](/Justin_Mach_English_Teacher_Resume.pdf)
+
 ![image](/S__41164811.jpg)
 
 **About Me:**
